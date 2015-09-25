@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Golf Score Tracker</string>
+    <string name="action_new_score">Add New Score</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="average">Average:</string>
+    <string name="date">Date:</string>
+    <string name="course">Course:</string>
+    <string name="score">Score:</string>
+    <string name="enter_date">Enter Date:</string>
+    <string name="enter_course">Enter Course:</string>
+    <string name="enter_score">Enter Score:</string>
+    <string name="new_cancel">Cancel</string>
+    <string name="enter_par">Par:</string>
+    <string-array name="golf_scores_test">
+        <item>95</item>
+        <item>87</item>
+        <item>92</item>
+        <item>96</item>
+        <item>88</item>
+        <item>97</item>
+    </string-array>
+    <string-array name="course_list">
+        <item>Conestogo</item>
+        <item>Conestogo</item>
+        <item>Fox Wood</item>
+        <item>Conestogo</item>
+        <item>Grey Silo</item>
+        <item>Fox Wood</item>
+    </string-array>
+    <string-array name="date_list">
+        <item>July 7/15</item>
+        <item>July 15/15</item>
+        <item>July 16/15</item>
+        <item>July 22/15</item>
+        <item>July 23/15</item>
+        <item>July 24/15</item>
+    </string-array>
+    <string name="title_activity_add_new_score">AddNewScore</string>
+    <string-array name="course_options">
+        <item>Conestoga</item>
+        <item>Grey Silo</item>
+        <item>Foxwood</item>
+        <item>Dundee</item>
+        <item>Elmira</item>
+    </string-array>
+</resources>
